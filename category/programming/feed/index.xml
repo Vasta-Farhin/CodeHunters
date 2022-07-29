@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>programming &#8211; CodeHunters</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Learn Coding For Free</description>
+	<lastBuildDate>Tue, 26 Jul 2022 16:18:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Java Tutorial</title>
+		<link>./../../../java-tutorial/index.html</link>
+					<comments>./../../../java-tutorial/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 26 Jul 2022 16:01:47 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=740</guid>
+
+					<description><![CDATA[Java tutorials allows you to create modular programs and reusable code. ]]></description>
+										<content:encoded><![CDATA[
+<p>Java is object-oriented. This allows you to create modular programs and reusable code. </p>
+
+
+
+<p>Our core Java programming tutorial is designed for students and working professionals. </p>
+
+
+
+<p>Java is an <a href="https://www.javatpoint.com/java-oops-concepts">object-oriented</a>, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../java-tutorial/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python tutorial</title>
+		<link>./../../../hello-world/index.html</link>
+					<comments>./../../../hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 24 Jul 2022 07:27:37 +0000</pubDate>
+				<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+
+					<description><![CDATA[Python tutorial provides basic and advanced concepts of Python. ]]></description>
+										<content:encoded><![CDATA[
+<p>Python tutorial provides basic and advanced concepts of Python. Our Python tutorial is designed for beginners and professionals. </p>
+
+
+
+<p>Python is a simple, general purpose, high level, and object-oriented programming language. Python is an interpreted scripting language also.&nbsp;<em>Guido Van Rossum</em>&nbsp;is known as the founder of Python programming.</p>
+
+
+
+<p>Our Python tutorial includes all topics of Python Programming such as installation, control statements,&nbsp;<a href="https://www.javatpoint.com/python-strings">Strings</a>,&nbsp;<a href="https://www.javatpoint.com/python-lists">Lists</a>,&nbsp;<a href="https://www.javatpoint.com/python-tuples">Tuples</a>,&nbsp;<a href="https://www.javatpoint.com/python-dictionary">Dictionary</a>,&nbsp;<a href="https://www.javatpoint.com/python-modules">Modules</a>,&nbsp;<a href="https://www.javatpoint.com/python-exception-handling">Exceptions</a>, Date and Time, File I/O, Programs, etc. There are also given Python interview questions to help you better understand Python Programming.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
